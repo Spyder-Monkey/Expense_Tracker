@@ -1,0 +1,19 @@
+EXPENSE:
+    * name
+    * type
+    * amount
+    * due_date
+    * payment_schedule
+
+EXPENSE_TYPE:
+    * credit_card
+    * loan
+    * subscription
+    * utility
+    * transportation
+    * entertainment
+    * food/groceries
+    * rent
+    * medical
+    * emergency
+    * other
